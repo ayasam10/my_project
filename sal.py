@@ -36,9 +36,13 @@ class Manager(Employee):
 # a Person object
 p = Person("younes", 46)
 print(p)
+#i wr new coment
 
 # Second Person
 p2 = Person.fromBirthDate('mohamed', 45)
 print(p2)
+<<<<<<< HEAD
 
 print("ibrahims")
+=======
+>>>>>>> 570321ff0cbc81c36f5e4554d0d74a16e990039f
