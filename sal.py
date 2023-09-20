@@ -36,6 +36,7 @@ class Manager(Employee):
 # a Person object
 p = Person("younes", 46)
 print(p)
+#i wr new coment
 
 # Second Person
 p2 = Person.fromBirthDate('mohamed', 45)
