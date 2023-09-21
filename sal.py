@@ -41,8 +41,8 @@ print(p)
 # Second Person
 p2 = Person.fromBirthDate('mohamed', 45)
 print(p2)
-<<<<<<< HEAD
+
 
 print("ibrahims")
-=======
->>>>>>> 570321ff0cbc81c36f5e4554d0d74a16e990039f
+
+
